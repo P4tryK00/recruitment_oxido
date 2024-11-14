@@ -39,5 +39,5 @@ This Python script reads an article from a text file, uses OpenAI's GPT-4 model 
 The generated HTML will be saved in artykul.html.
 
 Notes
-Ensure that text.txt contains the text content you wish to convert.
-Modify the .env and .py file names to match your setup if necessary.
+- Ensure that text.txt contains the text content you wish to convert.
+- Modify the .env and .py file names to match your setup if necessary.
